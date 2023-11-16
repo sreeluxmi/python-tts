@@ -1,0 +1,20 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {"text": "hello", "intent": "greet"},
+      {"text": "hi", "intent": "greet"},
+      {"text": "hey", "intent": "greet"},
+      {"text": "good morning", "intent": "greet"},
+      {"text": "good afternoon", "intent": "greet"},
+      {"text": "good evening", "intent": "greet"},
+      {"text": "how are you", "intent": "ask_how_are_you"},
+      {"text": "what's up", "intent": "ask_how_are_you"},
+      {"text": "tell me a joke", "intent": "tell_joke"},
+      {"text": "share a joke", "intent": "tell_joke"},
+      {"text": "what's the weather like", "intent": "ask_weather"},
+      {"text": "check the weather", "intent": "ask_weather"},
+      {"text": "open a website", "intent": "open_website"},
+      {"text": "search the web", "intent": "search_web"}
+    ]
+  }
+}

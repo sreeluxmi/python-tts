@@ -3,11 +3,12 @@ import pyttsx3
 import webbrowser
 import requests
 import geocoder
+
+
 from datetime import datetime
 
 # engine = pyttsx3.init()
 # voices = engine.getProperty('voices')
-
 # for v in voices:
 #     print("Voice ID:", v.id, "Name:", v.name, "Langauge:", v.languages)
 
